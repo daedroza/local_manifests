@@ -9,7 +9,7 @@
   
   <project name="daedroza/android_device_sony_fusion3-common" path="device/sony/fusion3-common" remote="github" revision="cm-13.0" />
   <project name="daedroza/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-13.0" />
-  <project name="daedroza/android_kernel_sony_apq8064" path="kernel/sony/apq8064" remote="github" revision="merging" />
+  <project name="daedroza/android_kernel_sony_apq8064" path="kernel/sony/apq8064" remote="github" revision="cm-13.0" />
   <project name="daedroza/proprietary_vendor_sony" path="vendor/sony" remote="github" revision="cm-13.0" />
 
   
