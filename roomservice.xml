@@ -16,4 +16,9 @@
   <project name="CyanogenMod/android_external_stlport" path="external/stlport" remote="github" revision="cm-13.0" />
   <project name="CyanogenMod/android_hardware_sony_DASH" path="hardware/sony/DASH" remote="github" revision="cm-13.0" />
   <project name="CyanogenMod/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-13.0" />
+  
+  <project name="armani-dev/android_device_xiaomi_armani" path="device/xiaomi/armani" remote="github" revision="cm-13.0" />
+  <project name="armani-dev/proprietary_vendor_xiaomi" path="proprietary/vendor/xiaomi" remote="github" revision="cm-13.0" />
+  <project name="Daedroza/nethunter_kernel_xiaomi_armani" path="kernel/xiaomi/armani" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-13.0" />
 </manifest>
